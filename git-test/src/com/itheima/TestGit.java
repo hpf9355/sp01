@@ -1,9 +1,12 @@
 package com.itheima;
 
+
+
 public class TestGit {
 
     public static void main(String[] args) {
 
-        System.out.println("这是git测试工程");
+        int a=10,b=20;
+        System.out.println(a/b);
     }
 }
